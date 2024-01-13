@@ -1,0 +1,76 @@
+body{
+    margin: 10px;
+    padding: 3em;
+    box-sizing: content-box;
+}
+img{
+    margin-left: 1em;
+}
+
+/************************The first section************************/
+
+.head{
+    position: relative;
+    width: 100%;
+    height: 4em;
+}
+.topnavbar{
+    position: absolute;
+    left: 30em;
+    top: 2em;
+}
+.logo{
+    position: absolute;
+    left: 1em;
+    top: 0.5em;
+}
+.contact{
+    position: absolute;
+    right: 1em;
+    top: 0.1em;
+}
+.cart{
+    position: absolute;
+    right: 14em;
+    top: 2em;
+}
+.search{
+    position: absolute;
+    top: 2em;
+    right: 18em;
+}
+/************************Border 1************************/
+.border1{
+    height: 1em;
+}
+/************************Second section************************/
+
+.second{
+    position: relative;
+    width: 100%;
+    height: 50em;
+}
+.ad{
+    position: absolute;
+    left: 1em;
+    top: 10em;
+}
+.best{
+    position: absolute;
+    left: 45em;
+    top: 10em;
+}
+.sushi{
+    position: absolute;
+    right: 1em;
+    margin-bottom: 4em;
+}
+.two-items{
+    position: absolute;
+    right: 0em;
+    bottom: 2em;
+}
+/************************Border 2************************/
+.border2{
+    height: 10em;
+}
